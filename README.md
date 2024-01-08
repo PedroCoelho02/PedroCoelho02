@@ -8,7 +8,6 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCoelho02&layout=compact&langs_count=7&theme=highcontrast"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroCoelho02&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
-
   - 📫 Meus Contatos: 
 <div>
 <a href = "mailto:pedro_junior37@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
