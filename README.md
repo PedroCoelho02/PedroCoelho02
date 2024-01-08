@@ -1,8 +1,6 @@
 
-[![Pedro Coelho's GitHub Stats](https://github-readme-stats-pedro-coelhos-projects.vercel.app/api?username=PedroCoelho02)](https://github.com/anuraghazra/github-readme-stats)
-
-![Pedro Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCoelho02&show_icons=true)
 ![Pedro Coelho's GitHub Stats](https://github-readme-stats-pedro-coelhos-projects.vercel.app/api?username=PedroCoelho02&show_icons=true&theme=highcontrast)
+
 
 [![Readme Card](https://github-readme-stats-pedro-coelhos-projects.vercel.app/api/pin/?username=PedroCoelho02&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
