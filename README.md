@@ -1,7 +1,7 @@
 
-- 🌱 Atualmente estou aprendendo 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-- 🔭 Atualmente estou trabalhando em projetos pequenos para aprimorar meus conhecimentos
+- 🌱 Aprendendo e desenvolvendo habilidades em:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/> 
+- 🔭 Elaborando projetos pequenos para praticar e desenvolver meus conhecimentos.
 
 <div>
 <a href="https://github.com/PedroCoelho02">
